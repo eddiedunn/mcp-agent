@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+mcp_agent.secrets.yaml
+
 # C extensions
 *.so
 
